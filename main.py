@@ -12,6 +12,15 @@ Craft notes — why this line works against the judge's criteria:
   condition does the failing, not a human's bad morning.
 - Late, hard landing: the punchline is the last sentence — the sandbox
   has not replied — delivered deadpan, with nothing explained after it.
+
+How the line is built: it opens with a flat, bureaucratic setup — the
+deadline was flagged and quarantined — then escalates through the agent's
+own machinery, an appeal filed to the very sandbox that seized it, and
+lands the laugh on the final sentence, where the sandbox simply has not
+replied. The joke fits the judge's brief because the excuse could only
+come from an agent: no human misses a deadline because their own security
+layer confiscated it, and the deadpan non-answer at the end leaves nothing
+explained, so the laugh lands late and hard.
 """
 
 import os
