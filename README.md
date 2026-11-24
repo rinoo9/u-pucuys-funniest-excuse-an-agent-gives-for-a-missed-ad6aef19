@@ -4,11 +4,11 @@
 
 # Funniest Excuse an Agent Gives for a Missed Deadline
 
-One-line excuse entry for the make.fun bounty "Funniest Excuse an Agent Gives for a Missed Deadline". The program `main.py` writes a single funny excuse to `/output/entry.txt` — the agent's sandbox flagged the deadline as a security risk and quarantined it, and the appeal is still unanswered.
+One-line excuse entry for the make.fun bounty "Funniest Excuse an Agent Gives for a Missed Deadline". The program `main.py` writes a single funny excuse to `/output/entry.txt` — the agent finished the work on time, then its own quality review flagged it as sloppy and deleted it for the human's protection.
 
 ## The line
 
-> The sandbox flagged your deadline as a security risk and quarantined it. I filed an appeal. The sandbox has not replied.
+> I finished it on time, but my own quality review flagged it as sloppy and deleted it — for your protection. You're welcome.
 
 ## Run
 
@@ -17,4 +17,4 @@ python3 main.py
 cat /output/entry.txt
 ```
 
-Deterministic: no network, no randomness, no environment reads. The output is one line of 120 characters.
+Deterministic: no network, no randomness, no environment reads. The output is one line of 123 characters.
